@@ -1,0 +1,157 @@
+@media only screen and (min-width: 200px) and (max-width: 1900px) {
+	#wrapper { height:auto; width:100%}
+   .header { width:100%; height: auto; padding-top:15px}
+   .logo {margin:0px 40px 15px 10px; float:left}
+   img { max-width: 100%; height: auto;
+}
+.seach { border-radius:5px; padding-left:10px; height:30px; width:190px;}
+.find { height:30px; width:80px; background-color:#F00; color:#FFF}
+#content_1 { margin-right: auto; width: 814px; overflow: visible; height: auto; float: left; margin-bottom: 15px; }
+
+#tintuc { float: right; width: 390px; top: 0px; border-top-width: 1px; border-top-style: solid; border-top-color: #CCC; height: auto; }
+.a { float: left; width: 400px; border: 1px solid #CCC; height: 185px; background-image:url(../images/samsung-galaxy-j5-6_1.jpg) 
+}
+.c { float: left; width: 400px; border: 1px solid #CCC; height: 185px; margin-top:10px ; background-image:url(../images/samsung-galaxy-tab-e-96-sm-t561_1.jpg)
+}
+.g { float: left; width: 400px; border: 1px solid #CCC; height: 185px; margin-top:10px ; background-image:url(../images/lg-g4-leather-5.jpg)
+}
+.k { float: left; width: 400px; border: 1px solid #CCC; height: 185px; margin-top:10px ; background-image:url(../images/samsung-galaxy-j7-j700.jpg)
+}
+.e { float: left; width: 400px; border: 1px solid #CCC; height: 185px; margin-top:10px ; background-image:url(../images/samsung-galaxy-note-5-n920.png)
+}
+#content_1 input, .d_1 input, .d_2 input { position: relative; float:right; margin-top:-35px; margin-right:10px;top:185}
+.b { float: left; width: 400px; height: 185px; margin-left: 10px; border: 1px solid #CCC; background-image:url(../images/apple-ipad-air-16gb-wifi-8_1.jpg) }
+.d { float: left; width: 400px; height: 185px; margin-left: 10px; border: 1px solid #CCC; margin-top: 10px; background-image:url(../images/samsung-galaxy-core-prime-g361_1.jpg) }
+.l { float: left; width: 400px; height: 185px; margin-left: 10px; border: 1px solid #CCC; margin-top: 10px; background-image:url(../images/hp-14-ac145tu-3825u-2gb-500gb-win10.jpg) }
+.h { float: left; width: 400px; height: 185px; margin-left: 10px; border: 1px solid #CCC; margin-top: 10px; background-image:url(../images/asus-x553ma-sx707b-1.jpg) }
+.f { float: left; width: 400px; height: 185px; margin-left: 10px; border: 1px solid #CCC; margin-top: 10px; background-image:url(../images/huawei-honor-4c2-1_2.jpg) }
+.d_1 { float: left; width: 389px; height: 185px; border: 1px solid #CCC; margin-top: 10px; background-image:url(../images/oppo-mirror-5-8.jpg) }
+.d_2 { float: left; width: 389px; height: 185px; border: 1px solid #CCC; margin-top: 10px; background-image:url(../images/lenovo-a7000-plus.jpg) }
+#top { height: auto; margin-left: auto; margin-right: auto; width: 1212px; overflow: auto; margin-top: 15px; }
+.top { height: 30px; width: auto; background-color: #f6f6f6; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: #CCC; border-right-color: #CCC; border-bottom-color: #CCC; border-left-color: #CCC; padding-top: 15px; padding-right: 0px; padding-left: 15px; }
+	.top1 { width: 200px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: #CCC; border-bottom-color: #CCC; border-left-color: #CCC; margin-bottom: 15px; text-align: center; padding-bottom: 15px; float:left; }
+}
+#footer { width: 100%; height: auto; padding: 25px 0px 50px 0px; background-color: #f2f2f2; margin-top: 25px; overflow: auto; }
+.top_footer { height: 160px; width: 90%; overflow: auto; margin-right: 5%; margin-left: 5%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; }
+.main-content { height: auto; width: 1212px; margin-right: auto; margin-left: auto; }
+.t-f-1 { width: 180px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-2 { width: 230px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-3 { width: 250px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-4 { width: 500px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.center_footer-1 { overflow: auto; width: 100%; height: auto; }
+.center_footer-2 { overflow: auto; width: 100%; height: auto; }
+.c-f-1 { width: 50%; padding-top: 20px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 20px; margin-left: 5%; }
+.c-f-3 { width: 50%; padding-top: 20px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 20px; margin-left: 5%; line-height:1.7 }
+.c-f-2 { float: left; width: 40%; height: auto; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 16px; margin-right: 5%; }
+.c-f-4 { float: left; width: 40%; height: auto; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 29px; margin-right: 5%; padding-top: 20px; line-height: 1.5 }
+.bottom_footer { height: auto; padding-right: 5%; padding-left: 5%; line-height: 1.7; margin-top: 20px; }
+.t_top { border-bottom: solid 4px #00FF00; height: auto; margin-bottom: 10px; width: 100%; }
+.tin1 { height: 110px; width: 100%; margin-bottom: 10px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-top: 16px; border-left-width: 1px; border-left-style: solid; border-left-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; }
+.tin2 { height: 89px; width: 100%; margin-bottom: 9px; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: #CCC; border-bottom-color: #CCC; }
+.tin3 { height: 87px; width: 100%; margin-bottom: 10px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; }
+.tin4 { height: 95px; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; }
+.tin5 { height: 81px; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; padding-top: 9px; }
+.f:hover {
+	background-image: url(../images/huawei-honor-4c2-1_3.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.e:hover {
+	background-image: url(../images/samsung-galaxy-note-5-n920_1.png);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.c:hover {
+	background-image: url(../images/samsung-galaxy-tab-e-96-sm-t561_2.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.b:hover {
+	background-image: url(../images/apple-ipad-air-16gb-wifi-8_2.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.a:hover {
+	background-image: url(../images/samsung-galaxy-j5-6_2.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.d:hover {
+	background-image: url(../images/samsung-galaxy-core-prime-g361_2.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.g:hover {
+	background-image: url(../images/lg-g4-leather-5_1.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.h:hover {
+	background-image: url(../images/asus-x553ma-sx707b-1_1.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.k:hover {
+	background-image: url(../images/samsung-galaxy-j7-j700_1.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.l:hover {
+	background-image: url(../images/hp-14-ac145tu-3825u-2gb-500gb-win10_1.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.d_2:hover {
+	background-image: url(../images/lenovo-a7000-plus_1.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+.d_1:hover {
+	background-image: url(../images/oppo-mirror-5-8_1.jpg);
+	-webkit-transition: all 0.5s ease-in-out 0s;
+	-moz-transition: all 0.5s ease-in-out 0s;
+	-ms-transition: all 0.5s ease-in-out 0s;
+	-o-transition: all 0.5s ease-in-out 0s;
+	transition: all 0.5s ease-in-out 0s;
+}
+@media (max-width: 320px) {
+.a { margin-left:0px }
+#a1 { width:320px}
+.b { width:350px;}
+.a { width:350px;}
+#content_1 { width:320px}
+
+}

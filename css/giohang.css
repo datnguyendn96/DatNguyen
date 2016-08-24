@@ -1,0 +1,41 @@
+@media only screen and (min-width: 200px) and (max-width: 1900px) {
+	#wrapper { height:auto; width:100%}
+   .header { width: 100%; height: auto; padding-top: 15px; background-color: #f2f2f2; }
+   .logo {margin:0px 40px 15px 10px; float:left}
+   img { max-width: 100%; height: auto;
+}
+.seach { border-radius:5px; padding-left:10px; height:30px; width:190px;}
+.find { height:30px; width:80px; background-color:#F00; color:#FFF}
+#top { height: auto; margin-left: auto; margin-right: auto; width: 1212px; overflow: auto; margin-top: 15px; }
+#content_1 { margin-right: auto; width: 1212px; overflow: visible; height: auto; margin-bottom: 15px; }
+#top { padding-top: 20px; padding-bottom: 20px; }
+#footer { width: 100%; height: auto; padding: 25px 0px 50px 0px; background-color: #f2f2f2; margin-top: 25px; overflow: auto; }
+.top_footer { height: 160px; width: 90%; overflow: auto; margin-right: 5%; margin-left: 5%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; }
+.main-content { height: auto; width: 1212px; margin-right: auto; margin-left: auto; }
+.t-f-1 { width: 180px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-2 { width: 230px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-3 { width: 250px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-4 { width: 500px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.center_footer-1 { overflow: auto; width: 100%; height: auto; }
+.center_footer-2 { overflow: auto; width: 100%; height: auto; }
+.c-f-1 { width: 50%; padding-top: 20px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 20px; margin-left: 5%; }
+.c-f-3 { width: 50%; padding-top: 20px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 20px; margin-left: 5%; line-height:1.7 }
+.c-f-2 { float: left; width: 40%; height: auto; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 16px; margin-right: 5%; }
+.c-f-4 { float: left; width: 40%; height: auto; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 29px; margin-right: 5%; padding-top: 20px; line-height: 1.5 }
+.bottom_footer { height: auto; padding-right: 5%; padding-left: 5%; line-height: 1.7; margin-top: 20px; }
+.t_top { border-bottom: solid 4px #00FF00; height: auto; margin-bottom: 10px; width: 100%; }
+.tin1 { height: 110px; width: 100%; margin-bottom: 10px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-top: 16px; border-left-width: 1px; border-left-style: solid; border-left-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; }
+.tin2 { height: 89px; width: 100%; margin-bottom: 9px; border-right-width: 1px; border-bottom-width: 1px; border-right-style: solid; border-bottom-style: solid; border-right-color: #CCC; border-bottom-color: #CCC; }
+.tin3 { height: 87px; width: 100%; margin-bottom: 10px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; }
+.tin4 { height: 95px; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; }
+.tin5 { height: 81px; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; border-right-width: 1px; border-right-style: solid; border-right-color: #CCC; padding-top: 9px; }
+#content_1 input { width:100%; padding:5px; border:solid 1px #CCC}
+
+@media (max-width: 320px) {
+.a { margin-left:0px }
+#a1 { width:320px}
+.b { width:350px;}
+.a { width:350px;}
+#content_1 { width:320px}
+
+}

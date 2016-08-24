@@ -1,0 +1,22 @@
+#footer { width: 100%; height: auto; padding: 25px 0px 50px 0px; background-color: #f2f2f2; margin-top: 25px; overflow: auto; }
+.top_footer { height: 160px; width: 90%; overflow: auto; margin-right: 5%; margin-left: 5%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; }
+.main-content { height: auto; width: 1212px; margin-right: auto; margin-left: auto; }
+.t-f-1 { width: 180px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-2 { width: 230px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-3 { width: 250px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.t-f-4 { width: 500px; float: left; height: 100%; line-height: 1.7; font-size: 12px }
+.center_footer-1 { overflow: auto; width: 100%; height: auto; }
+.center_footer-2 { overflow: auto; width: 100%; height: auto; }
+.c-f-1 { width: 50%; padding-top: 20px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 20px; margin-left: 5%; }
+.c-f-3 { width: 50%; padding-top: 20px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 20px; margin-left: 5%; line-height:1.7 }
+.c-f-2 { float: left; width: 40%; height: auto; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 19px; margin-right: 5%; }
+.c-f-4 { float: left; width: 40%; height: auto; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; padding-bottom: 12px; margin-right: 5%; padding-top: 23px; line-height: 1.5 }
+.bottom_footer { height: auto; padding-right: 5%; padding-left: 5%; line-height: 1.7; margin-top: 20px; }
+
+.header { width:100%; height: auto; padding-top:15px}
+   .logo {margin:0px 40px 15px 10px; float:left}
+   img { max-width: 100%; height: auto;
+}
+.seach { border-radius:5px; padding-left:10px; height:30px; width:190px;}
+.find { height:30px; width:80px; background-color:#F00; color:#FFF}
+#nav ul .t1a { margin-bottom:10px; background-color:#FFF; margin-left:5px; margin-top:5px; text-align:center; border:solid 1px #CCC; border-radius:4px }
